@@ -1,0 +1,8 @@
+bin/
+obj/
+TestResults/
+exports/
+artifacts/
+.local/
+publishers.json
+*.json.lock

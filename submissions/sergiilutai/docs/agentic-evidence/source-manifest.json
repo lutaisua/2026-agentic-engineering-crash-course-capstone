@@ -1,0 +1,60 @@
+{
+  "capturedDate": "2026-10-11",
+  "purpose": "Public capstone evidence copies; active planning and skill sources remain outside this repository",
+  "files": [
+    {
+      "sourcePath": "openspec/changes/develop-analytics-et-in-iterations/design.md",
+      "publishedPath": "planning/changes/develop-analytics-et-in-iterations/design.md",
+      "sourceSha256": "f743deb369e72c7c682a032c0b6dba1f2a489b47f67d731388d6cee864a532b5",
+      "publishedSha256": "0195acc027500db2511d1d81bc60b50bdb9c37c2e74793f7cb0dfd7e6dd4bfee"
+    },
+    {
+      "sourcePath": "openspec/changes/develop-analytics-et-in-iterations/proposal.md",
+      "publishedPath": "planning/changes/develop-analytics-et-in-iterations/proposal.md",
+      "sourceSha256": "d95140cb70bfcc9f1eb88c434f60da5a6443e7c779a847d65544de9a3918688d",
+      "publishedSha256": "d95140cb70bfcc9f1eb88c434f60da5a6443e7c779a847d65544de9a3918688d"
+    },
+    {
+      "sourcePath": "openspec/changes/discover-publisher-products/design.md",
+      "publishedPath": "planning/changes/discover-publisher-products/design.md",
+      "sourceSha256": "620ced69dcbc48127838ceb7d9b27ae8b49c63fec88c8ca63da0f10d81142198",
+      "publishedSha256": "620ced69dcbc48127838ceb7d9b27ae8b49c63fec88c8ca63da0f10d81142198"
+    },
+    {
+      "sourcePath": "openspec/changes/discover-publisher-products/proposal.md",
+      "publishedPath": "planning/changes/discover-publisher-products/proposal.md",
+      "sourceSha256": "ba508a831932bc9e67f3bff2ae4e320a2860ff0e0269f65f9232ed4582294138",
+      "publishedSha256": "ba508a831932bc9e67f3bff2ae4e320a2860ff0e0269f65f9232ed4582294138"
+    },
+    {
+      "sourcePath": "openspec/changes/discover-publisher-products/specs/publisher-product-discovery/spec.md",
+      "publishedPath": "planning/changes/discover-publisher-products/specs/publisher-product-discovery/spec.md",
+      "sourceSha256": "4a40480475831dde336e23dcd5b42b6c557c5d11162754f44ee29b2a142e5e6c",
+      "publishedSha256": "4a40480475831dde336e23dcd5b42b6c557c5d11162754f44ee29b2a142e5e6c"
+    },
+    {
+      "sourcePath": "openspec/changes/discover-publisher-products/specs/store-product-inventory/spec.md",
+      "publishedPath": "planning/changes/discover-publisher-products/specs/store-product-inventory/spec.md",
+      "sourceSha256": "9443c4a8bd0158534fbfae586f5295d01e6d49894193aadf823959ff9fa46402",
+      "publishedSha256": "9443c4a8bd0158534fbfae586f5295d01e6d49894193aadf823959ff9fa46402"
+    },
+    {
+      "sourcePath": "openspec/changes/discover-publisher-products/specs/marketplace-product-inventory/spec.md",
+      "publishedPath": "planning/changes/discover-publisher-products/specs/marketplace-product-inventory/spec.md",
+      "sourceSha256": "b21e1d05b715579e232c01f7d013c2fb8231b028be8c5b3c27d759f398db5400",
+      "publishedSha256": "b21e1d05b715579e232c01f7d013c2fb8231b028be8c5b3c27d759f398db5400"
+    },
+    {
+      "sourcePath": "openspec/changes/diagnose-store-subscription-inventory/proposal.md",
+      "publishedPath": "planning/changes/diagnose-store-subscription-inventory/proposal.md",
+      "sourceSha256": "63503a168785a13be67240d3e538ae61653d2abce473e00396901fd22522833b",
+      "publishedSha256": "63503a168785a13be67240d3e538ae61653d2abce473e00396901fd22522833b"
+    },
+    {
+      "sourcePath": ".agents/skills/openspec-apply-change/SKILL.md",
+      "publishedPath": "workflows/openspec-apply-change.md",
+      "sourceSha256": "a3bf9564ae7195a19bb157c637f3d64468ce2cfba8b609c4bcb524325f27cd29",
+      "publishedSha256": "a3bf9564ae7195a19bb157c637f3d64468ce2cfba8b609c4bcb524325f27cd29"
+    }
+  ]
+}

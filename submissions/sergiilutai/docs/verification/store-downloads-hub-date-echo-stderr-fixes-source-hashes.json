@@ -1,0 +1,359 @@
+{
+  "checkpoint": "store-downloads-hub-date-echo-stderr-fixes",
+  "verifiedDate": "2026-10-11",
+  "nonLiveTestsPassed": 198,
+  "liveVerification": "none-offline-fixes-only-no-new-live-request",
+  "previousCheckpoint": "store-downloads-hub-utc-preview-source-hashes.json",
+  "contractSha256": "da38b521fb5b2d5bfda47e11adcb06214801126ecc446bc2ab91da25ae1b3742",
+  "testAssemblySha256": "a5e2a7499bb434b2ac963c629fd8330a9a02985680cf50de8819545a729cb09e",
+  "files": [
+    {
+      "path": ".editorconfig",
+      "sha256": "c311c6aad89f18a0ac54949b1dbbebedda103f16fb6cb1a240af8a552ae870f9"
+    },
+    {
+      "path": "AnalyticsET.csproj",
+      "sha256": "f7cafa6ddd2e95e8c661af11fe89a3fcf6c12cde396d33b79447ce3ddad07cc4"
+    },
+    {
+      "path": "AnalyticsET.slnx",
+      "sha256": "e8204dfaa67777515b5c84f99b25b04574641a29b3cdf2f306c7b9120ba8427a"
+    },
+    {
+      "path": "Cli/CliApplication.cs",
+      "sha256": "e7baa4f7d98c54152eb83b75e4489e6547cf286a736bcd780811dd1a48a0ca50"
+    },
+    {
+      "path": "Cli/CommandLine.cs",
+      "sha256": "eadb118468ed6662e7bbc0363d58dccd91b18cc94a2d603a45ac94bc332220f0"
+    },
+    {
+      "path": "Cli/ConfigurationCommands.cs",
+      "sha256": "291aca0e02911a84d849017b62ba01dd12be6c2c31819568de8dfc8125a00e51"
+    },
+    {
+      "path": "Cli/InputException.cs",
+      "sha256": "7c121d8bacc88f00471a3cb6075061ce87fca8b1121515650b21ca91294cb48c"
+    },
+    {
+      "path": "Cli/InventoryCommands.cs",
+      "sha256": "3f15d80bb81056d76f30f19ac6ebb27c9ed692f7b684df699ff399fe1bb8439f"
+    },
+    {
+      "path": "Cli/PublisherCommands.cs",
+      "sha256": "30cedfd41834e46d6807b30b44d0fc8a7613a04ef6542b22ce8a72b3f5e88b9e"
+    },
+    {
+      "path": "Core/Authentication/ApplicationCredentialResolver.cs",
+      "sha256": "ddcdc28b08eda9666f2c090a256c3064304c6c77fcc6221b921c3a614f7f0a6d"
+    },
+    {
+      "path": "Core/Authentication/AuthorizationContext.cs",
+      "sha256": "16b15bd7b4eeb26e4490df91ec58694d2cf67664f6f182d8163fab60db93765b"
+    },
+    {
+      "path": "Core/Authentication/ClientCredentialTokens.cs",
+      "sha256": "7d1c948b69b388fd9dd09fededae274c98a5279a6bbf15028cad5db1a8acbf75"
+    },
+    {
+      "path": "Core/Authentication/CredentialReference.cs",
+      "sha256": "c444b9544985e9a35bac7dfb4dfbeb910eb65ce1aa9b7f25e0424bd5bc985527"
+    },
+    {
+      "path": "Core/Authentication/WindowsGenericCredentialVault.cs",
+      "sha256": "ffbc453e96fc55ded0e2b621c27d636536a5fbdb2b5927c3a4e5f44bb8a4270d"
+    },
+    {
+      "path": "Core/Inventory/InventoryAccountProof.cs",
+      "sha256": "b8d40070c3f6f6811d69f865ec0436c8d3fe8752f18f56e7e2029f762e531511"
+    },
+    {
+      "path": "Core/Inventory/InventoryCoordinator.cs",
+      "sha256": "4730a0975f596d0ef9206003b1e54d0f9205218e886036aa53a1201a036b8a90"
+    },
+    {
+      "path": "Core/Inventory/InventoryModels.cs",
+      "sha256": "e3e0ffbdd1e9cc253afb4e92df288975ad66cde348e46b05c944ffb0e8c3f52a"
+    },
+    {
+      "path": "Core/Inventory/InventoryStore.cs",
+      "sha256": "e59f196baa59c072315b1bcd75ec37236f8537a0a0fb9adaa74f6fa296217830"
+    },
+    {
+      "path": "Core/Inventory/StoreInventoryProvider.cs",
+      "sha256": "5da23428dda0da4b8627d36a0d3ea802c689d6607a7fbc3743d9034a3747a25c"
+    },
+    {
+      "path": "Core/Inventory/StoreInventoryReader.cs",
+      "sha256": "c65993594efe23037c2acb7aaaa010ad7413a15a5852a84769764c59465259ae"
+    },
+    {
+      "path": "Core/Inventory/StorePublication.cs",
+      "sha256": "c574525aff6790ec52e0924941e2613bce031cea9e68332db795d2fa41b2c7bd"
+    },
+    {
+      "path": "Core/Networking/BoundedJsonHttp.cs",
+      "sha256": "decd766c53a83ab50d1c220271f5d9dde018b9b9f4554755f42073112297e6e4"
+    },
+    {
+      "path": "Core/Publishers/ConfigurationJson.cs",
+      "sha256": "6714ba1a490d56835852b70d5ba1fd21c337dc8326420ff346fa6bb60b40d857"
+    },
+    {
+      "path": "Core/Publishers/ConfigurationMigrator.cs",
+      "sha256": "cb81cbf5500999fe0fb4f0a74513ff5d88188fcbbd310f4dd8f3e6657fb02d14"
+    },
+    {
+      "path": "Core/Publishers/ConfigurationValidator.cs",
+      "sha256": "7e499c82ff4feb0a5050120516340dab796f8f21fc0b43c421e8d7869cfe3fb5"
+    },
+    {
+      "path": "Core/Publishers/PublisherConfiguration.cs",
+      "sha256": "4624f8925eb2fc20182167fac3bcfe506f0bc9e110336d6a8885bf57ef97b30e"
+    },
+    {
+      "path": "Core/Publishers/PublisherSelection.cs",
+      "sha256": "a7546c68d3330bbe0bfc4a283f51ff5dde30201ea99fa50ad39bf3bae86a2004"
+    },
+    {
+      "path": "Core/Publishers/PublisherStore.cs",
+      "sha256": "37f2c1454ff8b194e570634848b99e7e7fc2d1075a54bcbb851d585c0192e8a8"
+    },
+    {
+      "path": "Core/Storage/AtomicFileWriter.cs",
+      "sha256": "ded5ab8a358900526512acecb6d016f1bdf0c7cbb4c7fa5604ec522556c2ff40"
+    },
+    {
+      "path": "Core/Storage/PrivateStorageGuard.cs",
+      "sha256": "e987bbd20e2ab8589c67eeefe249cba4ea03fbf0a9617a2f9a9a3e57ea7b9e7c"
+    },
+    {
+      "path": "docs/examples/store-downloads-hub-input.fictional.json",
+      "sha256": "a6ffbd8f9f634ec17a061ce835f934802854a007c4e12eb44e47ccf91fd0e58f"
+    },
+    {
+      "path": "docs/examples/v0.1-smoke.ps1",
+      "sha256": "638102ecbd91c23b1208710ca5c825e9807efb1d21b824dbdfbc02c028868fa0"
+    },
+    {
+      "path": "Program.cs",
+      "sha256": "d17f0463a22c8b2f4d958e3548a84225ca29817e84dc79cd647dea672cbd45d1"
+    },
+    {
+      "path": "scripts/Invoke-StoreDownloadsHubValidation.ps1",
+      "sha256": "64e8e31028e1bc5c12456828db87d273d8c1959f0ba009a8a1d48c8488cd67a5"
+    },
+    {
+      "path": "scripts/Invoke-StoreSubscriptionDiagnostic.ps1",
+      "sha256": "ebdd700ec19e3c69121560bbadd6409287f3bd151238a9093c81eaa8597ceba7"
+    },
+    {
+      "path": "scripts/New-PrivatePublisherProfile.ps1",
+      "sha256": "3dd9fcf90506acbde428be5ae0d2af585edabb8d9bdd89ba685019d63cc16a57"
+    },
+    {
+      "path": "scripts/verify.ps1",
+      "sha256": "092cdaae0911a7e9ad0a312d611d8312d2608a18f91a7419b95b7332dc81efc7"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/AnalyticsET.Tests.csproj",
+      "sha256": "78d90282f57735cbcb37af6ac076625c75a8546e4833450485674d38d7d28eb4"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/CliProcess.cs",
+      "sha256": "57161d2f312117d85ad7fd6d9393bece94a2ff4881ae3caada33301c81f9227c"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/CliTests.cs",
+      "sha256": "09796dd49c11beca57bf3e3bb106be9fbcad34943d4366e900b35081bb244612"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/ConfigurationMigrationTests.cs",
+      "sha256": "af6e337dd785f4e4ea6f2f8d5e7cd91753d4777460492862dd735dd3c90dbf33"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/ConfigurationTests.cs",
+      "sha256": "7ac3b87d578b1f89cca21b3f77af7c1892a9bcec332944ae6c7bc0cd515dac13"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/CredentialResolverTests.cs",
+      "sha256": "704579df7bd7c542a38b2d221ae90cf57766e6ccf3540e4a12f9afe475613166"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/DiagnosticCorrelationCapture.cs",
+      "sha256": "78ed585619f211bf8bd390d7135d1ab9e7d90a8450803dfd2351b4ec5a21b7e5"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/DiscoveryConfigurationTests.cs",
+      "sha256": "7192df983ed7a4bb153b0abf4af0b3bc56eb70e411fa8a3707f9a63fc690b872"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/DocumentationExamplesTests.cs",
+      "sha256": "f39b9eff116dafff9282c6b3d98cc1f94eec2d96a3ee6b92e4973ab2a4683145"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/InventoryAccountProofTests.cs",
+      "sha256": "2082c6fb81368e53522977d0339e4e053e95b56bcdc6977b5129ab947eef7d27"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/InventoryCliTests.cs",
+      "sha256": "099921a1167a8b24ce05192d9f3a848e568302204e1aa1db4e16a20a0575ad83"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/InventoryCoordinatorTests.cs",
+      "sha256": "3507792f5e5b0bbf93f0cd506dee04aa03a7338bca1db3a63bf450141270cc5b"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/InventoryHttpTests.cs",
+      "sha256": "eadf32f17f2f0a2b59185ca77352889253bf1f81277b71902dd63601ed5faf0d"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/InventoryModelTests.cs",
+      "sha256": "af7b8b840a0f458d60f9a077c929e12a23470ea1a12b812604aabbf6fc7d4a35"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/InventoryStoreTests.cs",
+      "sha256": "9d100a6bc13f96a6cb85c9569777cb4b29da4e17766fc85a2d9dd3340ced5daf"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/MarketplaceAuthenticationTests.cs",
+      "sha256": "a3d68ff46ccb1f5334ad181f48f22c2ae1b2acb965340a48fb83dde6c6dcb877"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/MSTestSettings.cs",
+      "sha256": "72f34577d30d2f5c78b3c50d2a2d898b52acca841ca165b68e352462f8fe525d"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/OfflineValidationTests.cs",
+      "sha256": "555b4a0e1427117179a07eb1167fd4811358bf21386a419466b1acbcb47fd826"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/PrivateProfileHelperTests.cs",
+      "sha256": "ef01f843fbb867d88fb96866390daa6bd1842b295ae31ef6d6599f96dfffe4ca"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/ProfileFixtures.cs",
+      "sha256": "08bce927712e94275b28d7b9973c7ab88ff5aeeeb85d8c3b8c1c5e9cdad44835"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/PublisherSelectionTests.cs",
+      "sha256": "e3aa52a01497184fba106a31c26e8f4b658da440dd5258c64cfc6e1702c7b4fd"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/PublisherStoreTests.cs",
+      "sha256": "3f9b2ff3c65bfb208a69e126c12d3a6f2327f5da226319ef86485667b66fd8bb"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticErrorSummary.cs",
+      "sha256": "ed45ef161d6da02d701c8b9b3ec8606582ed3380c41ae4337c531607f211874f"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticEvidenceTests.cs",
+      "sha256": "3d124d265b1d1c190c3adeddf16aef8674c818237e7255e2dbbe1b77b0589943"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticHelperTests.cs",
+      "sha256": "47d41efac84c45790a8dad1cff24246ade238990ed6dc341599718c626b5c82f"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticInput.cs",
+      "sha256": "08b3134b8a9e5937618e93dc7fd2c92555dd22086f025f385ea1235dc4f6af29"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticInputTests.cs",
+      "sha256": "566022acc57efadf70023d7dce61a63a26200af4ff0a2d43d482e73a3e9a51c2"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticPacket.cs",
+      "sha256": "aecf3d892534c0f84e6e7114165a1c67e5a5ecdf050a9af574c9659103eb2d4f"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticPacketTests.cs",
+      "sha256": "a7962f5e2ccdf71e0f857012259dd1b673c000479de86e12406a8d6458c6c262"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticTransport.cs",
+      "sha256": "8bfd78f7c8d6e01bf30c7782606fecfe1aae2f627222abf96363a56ca9eba90c"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreDiagnosticTransportTests.cs",
+      "sha256": "b325a4204f9a4ae6154f44f9f289082feb9ca81afbcc9e92c2628d9cac3841f4"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubCreation.cs",
+      "sha256": "5d281c82338b6e7578ea26bc854667360be8b9447bfbd0eb9f088f5420d6c723"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubCreationTests.cs",
+      "sha256": "db55cbf04bbc52270599c87fe0d36c7459932c446e9e06b323c98660ae316010"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubDiscovery.cs",
+      "sha256": "85fb2140990691e755324517601f52dd6ac47f0cc2e0d262266da6fe515e0766"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubDiscoveryReader.cs",
+      "sha256": "676ded101382664003284e4f80bce5d6d7064c9ab6064912b7e69c4583a0b4de"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubDiscoveryTests.cs",
+      "sha256": "fc9edd0c4822b4907853f826ade4f1e3d14066c5c36fc0f7e6b788dcff35b99f"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubHelperTests.cs",
+      "sha256": "93ed092c69a08a7a014ce54b6e83c6f1adec4d2713f7985f8603d5a56fac95f8"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubInput.cs",
+      "sha256": "688835ddc761fb411d5a569595b2a993f1e5fdd3999166f6f5a77763f598a32f"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubMetadata.cs",
+      "sha256": "b02cf7c2c2b66ff146ef7fa43ed8c83ccbed735a76d0f9ad60c0259d7241a449"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubQueryPlan.cs",
+      "sha256": "cf4bf8c80fa500da21038e77f71096dbe3c2ad7255dd944b5c52f77e729365ba"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubQueryProbe.cs",
+      "sha256": "e0071767c445de76f10d2f4cdeab8af892042a1527d98f64c798610fb5a9bbfd"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreHubQueryTests.cs",
+      "sha256": "ce9d36f9657422daab7ead1a0597e8cc8d5f814a7770a1f2e0f382c9ec51485c"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreInventoryLiveDiagnostics.cs",
+      "sha256": "0ded7e1b0a136ab3394ba7a0fd463b279b5eec18c14b92f45bfd783118489f9f"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreInventoryProviderTests.cs",
+      "sha256": "1fcae49557d72b6d139439e1769a81d703c6fc306cd21195947259de2488757a"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreInventoryReaderTests.cs",
+      "sha256": "44a5f02f52c6042416cc032583717dda9d9aa44b68541f1f5c5baaca5d3ea85d"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StorePublicationTests.cs",
+      "sha256": "e42d6aa1b27cd6b945d10c84dc363198a7f106d583b230ffb842cebd5dcf3dfc"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreSubscriptionDiagnostic.cs",
+      "sha256": "1f8c1684dfb88136aeec8389ab08cb3dbd1f337fff3b8dc427a876e7e6bf1052"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/StoreSubscriptionDiagnosticTests.cs",
+      "sha256": "c29014b5d34c43755f03d2b8f79a2e43383b11521eec70cbace3357c442d72d7"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/TemporaryDirectory.cs",
+      "sha256": "205cffaf1f3cb415aa45807255936ca5d3e21847b70fcf7fd34e86bf83fc433b"
+    },
+    {
+      "path": "tests/AnalyticsET.Tests/VerifierTests.cs",
+      "sha256": "e0c4fefce35dfdb864bb3b0451bb6d44c964b184e640d2d9611d5c5ab55d88f7"
+    }
+  ]
+}
